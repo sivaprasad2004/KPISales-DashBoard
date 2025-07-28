@@ -39,7 +39,4 @@ This repository contains a KPI Sales Dashboard project built using Tableau to vi
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
 
-## 📞 Contact
-For any queries or suggestions, feel free to reach out:
-- **GitHub**: [saiteja31041](https://github.com/saiteja31041)
-- **Email**: [2200031512@kluniversity.in]
+
